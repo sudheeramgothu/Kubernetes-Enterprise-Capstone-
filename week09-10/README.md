@@ -16,3 +16,15 @@ aligned with CKAD exam expectations.
 - GitOps-driven deployments
 - Secure application configurations
 - CKAD-aligned workflow
+
+By the end of Week 10, students will:
+
+Deploy applications exclusively via GitOps
+
+Secure application configuration
+
+Integrate security into CI/CD
+
+Be fully prepared for the CKAD exam
+
+Transition naturally into CKS-focused content
